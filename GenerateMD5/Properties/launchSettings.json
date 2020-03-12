@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GenerateMD5": {
+      "commandName": "Project",
+      "commandLineArgs": "F:\\Right-click-menu-mp3-wav-convert-master\\ffmpeg.exe F:\\Right-click-menu-mp3-wav-convert-master\\README.md"
+    }
+  }
+}
